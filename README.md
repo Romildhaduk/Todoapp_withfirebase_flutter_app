@@ -1,14 +1,6 @@
 # todoapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-
-
-
+## 📲Screenshot
 A few resources to get you started if this is your first Flutter project:![WhatsApp Image 2023-04-10 at 6 18 15 PM (1)](https://user-images.githubusercontent.com/102571608/230904764-5c16d541-deb0-4426-a00a-33ab9c0b2ca8.jpeg)
 ![WhatsApp Image 2023-04-10 at 6 18 15 PM (2)](https://user-images.githubusercontent.com/102571608/230904772-d2900ce7-d17b-4253-b6f5-71f942355d9e.jpeg)
 ![WhatsApp Image 2023-04-10 at 6 18 15 PM (3)](https://user-images.githubusercontent.com/102571608/230904775-e15bc0b9-476a-453a-b768-081c45df22da.jpeg)
